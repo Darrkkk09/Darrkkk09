@@ -36,7 +36,10 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn]([(https://www.linkedin.com/in/ranjit09/)])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ranjit09/)
+
+---
+
 
 
 ---

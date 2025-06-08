@@ -2,10 +2,10 @@
 
 ---
 
-- 👀 I’m interested in **Web development, Backend Engineering, and Open-Source rojects**
+- 👀 I’m interested in **Web development, Backend Engineering, and Open-Source Projects**
 - 🌱 I’m currently learning **Node.js, MongoDB, and system design**
 - 💞️ I’m looking to collaborate on **JavaScript/Node.js projects and scalable backend systems**
-- 📫 How to reach me: (mailto: ranjitmutchakarla123@gmail.com)
+- 📫 How to reach me: (mail to: ranjitmutchakarla123@gmail.com)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I debug better after a cup of coffee ☕
 
@@ -36,7 +36,7 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([(https://www.linkedin.com/in/ranjit09/)])  
+[![LinkedIn]([(https://www.linkedin.com/in/ranjit09/)])  
 
 
 ---

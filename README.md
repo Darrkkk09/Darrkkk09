@@ -24,7 +24,7 @@
 
 **Tools** : Postman, VS Code
 
-**Frameworks and libraries** : Mongoose,Socket.io
+**Frameworks and libraries** : Mongoose,Socket.io,react-router,axios
 
 ---
 

@@ -14,15 +14,15 @@
 ### 🛠️ Tech Stack
 **Frontend**: HTML, CSS, JavaScript, React.js
 
-**Backend** : Node.js, Express.js
+**Backend** : Node.js, Express.js , FastAPI 
 
 **Languages** : C++(Proficient), Python(intermediate),Java(beginner)
 
 **Databases** : MongoDB,MySQl
 
-**Version Control** : Git, GitHub
+**Version Control** : Git, GitHub , CodeBerg
 
-**Tools** : Postman, VS Code
+**Tools** : Postman, VS Code 
 
 **Frameworks and libraries** : Mongoose,Socket.io,react-router,axios
 

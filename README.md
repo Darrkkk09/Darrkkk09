@@ -18,11 +18,9 @@ From competitive programming to real-world client deployments, I enjoy solving c
 
 ## 🛠️ What I’ve Been Working On
 
-- Designed and deployed multiple production websites (React + Node.js) on VPS and cloud platforms.
+- Designed and deployed multiple production websites on VPS and cloud platforms.
 - Built full-stack applications from scratch including frontend, backend, database, and deployment.
-- Integrated dynamic JSON-based rendering systems and improved UI/UX across projects.
-- Implemented Google Sheets form integrations and API-based workflows.
-- Configured VPS servers with Nginx, PM2, SSL (Let’s Encrypt), and reverse proxy setups.
+- Configured VPS servers with Nginx, PM2, SSL , and reverse proxy setups.
 - Improved performance, SEO structure, and production readiness of live client projects.
 - Worked directly with Figma designs and translated them into responsive, animated UI.
 
@@ -36,7 +34,7 @@ From competitive programming to real-world client deployments, I enjoy solving c
 | **Backend** | Node.js, Express.js, FastAPI |
 | **Frontend** | React.js, Next.js, Tailwind CSS, HTML5, CSS3 |
 | **Databases** | MongoDB, PostgreSQL |
-| **Deployment & Infrastructure** | VPS, Nginx, PM2, REST APIs, JWT, Socket.io |
+| **Deployment & Infrastructure** | VPS, Nginx, REST APIs, JWT, Socket.io |
 | **Tools** | Git, GitHub, Postman, VS Code, DBeaver |
 
 ---
@@ -54,7 +52,6 @@ From competitive programming to real-world client deployments, I enjoy solving c
 
 **B.Tech – Computer Science**  
 Vignan’s Institute of Information Technology  
-CGPA: **8.23**
 
 ---
 

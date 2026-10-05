@@ -1,72 +1,84 @@
-# 👨‍💻 Ranjit Kumar Mutchakarla
-**Full-Stack Developer | Backend-Focused Engineer | Problem Solver**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Ranjit%20Kumar%20Mutchakarla&fontSize=45&fontAlignY=35&desc=Engineering%20performance,%20one%20endpoint%20at%20a%20time.&descAlignY=55&descAlign=50&animation=twinkling" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit09) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darrkkk09)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Darkk09)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ranjit09)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Agent+%26+LLM+Engineer;Backend+Architect;LeetCode+Knight+(Peak+1937)" alt="Typing SVG" />
+
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit09) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Darrkkk09)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Darkk09/)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ranjit09)
+  
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Full-Stack Developer who enjoys building scalable web applications and clean backend architectures. I focus on writing efficient, maintainable code and turning ideas into fully deployed production systems.
+I’m a **Backend-Focused Full-Stack Developer** and **AI Engineer** obsessed with code craft, high performance, and scalable cloud infrastructure. Beyond traditional web applications, I actively build **Multi-Agent AI systems** and developer tools leveraging modern LLM architectures. 
 
-From competitive programming to real-world client deployments, I enjoy solving complex problems and delivering practical solutions that work reliably in production environments.
-
----
-
-## 🛠️ What I’ve Been Working On
-
-- Designed and deployed multiple production websites on VPS and cloud platforms.
-- Built full-stack applications from scratch including frontend, backend, database, and deployment.
-- Configured VPS servers with Nginx, PM2, SSL , and reverse proxy setups.
-- Improved performance, SEO structure, and production readiness of live client projects.
-- Worked directly with Figma designs and translated them into responsive, animated UI.
+With over a year of hands-on production experience, I specialize in translating complex system requirements into robust, fault-tolerant endpoints while continuously refining my algorithmic problem-solving skills on LeetCode.
 
 ---
 
-## 🧰 Technical Skills
+## 🤖 AI & Engineering Highlights
 
-| Category | Technologies |
-|-----------|--------------|
-| **Languages** | Python, JavaScript (ES6+), TypeScript, Java, SQL, C++ |
-| **Backend** | Node.js, Express.js, FastAPI |
-| **Frontend** | React.js, Next.js, Tailwind CSS, HTML5, CSS3 |
-| **Databases** | MongoDB, PostgreSQL |
-| **Deployment & Infrastructure** | VPS, Nginx, REST APIs, JWT, Socket.io |
-| **Tools** | Git, GitHub, Postman, VS Code, DBeaver |
+*   **AI Agent Architectures:** Building multi-agent platforms (like *Campus Connect*) featuring real-time voice interview simulations using AssemblyAI + Gemini, complete with exponential backoff and graceful fallbacks.
+*   **LLM Integrations:** Developing tools like *GitMCP*, utilizing Model Context Protocol (MCP), ChromaDB vector embeddings, and FastAPI to enable natural-language repository exploration.
+*   **Cloud & DevOps:** Executing zero-downtime server migrations, containerizing environments with Docker, Nginx, and Traefik, and managing VPS infrastructure for high-traffic financial platforms.
+*   **Production Backends:** Engineering scalable RESTful APIs in FastAPI and NestJS with role-based JWT authentication, structured logging, and robust input validation.
 
 ---
 
-## 🏆 Competitive Programming
+## 🧰 Technical Arsenal
 
-- Solved **500+ problems** on LeetCode.
-- 2⭐ CodeChef (Max Rating: 1519).
-- Active participant in 60+ coding contests.
-- Strong foundation in Data Structures & Algorithms.
+### **Languages & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,java,nodejs,express,nestjs,fastapi,react,nextjs,tailwind&perline=12" />
+  </a>
+</p>
 
----
+### **Databases, DevOps & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,firebase,docker,aws,nginx,linux,git,github,postman&perline=12" />
+  </a>
+</p>
 
-## 🎓 Education
-
-**B.Tech – Computer Science**  
-Vignan’s Institute of Information Technology  
-
----
-
-## 📬 Connect With Me
-
-📍 Visakhapatnam, India  
-📧 ranjitmutchakarla123@gmail.com  
-📱 +91-9381765548  
-
----
-
-### 💡 Philosophy
-
-I believe good engineering is not just about writing code — it’s about building reliable systems, solving real problems, and continuously improving.
+### **AI & Advanced Tech**
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4E00?style=for-the-badge&logoColor=white)
+![Model Context Protocol](https://img.shields.io/badge/MCP-181717?style=for-the-badge&logo=github&logoColor=white)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
 ---
 
-*Engineering performance, one endpoint at a time.*
+## 🏆 Competitive Programming & Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Darkk09?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+</div>
+
+*   🛡️ **LeetCode Knight:** Peak Rating **1937** (Top 1.5% Globally).
+*   🧩 **Problems Solved:** Conquered **800+ algorithmic challenges** and actively participated in 100+ contests.
+*   ⭐ **CodeChef:** 2-Star Rating (Peak: 1588).
+*   🚀 **Hackathons:** Qualified for the internal competitive round of the AWS AI Hackathon 2026.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darrkkk09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darrkkk09&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <i>📍 Visakhapatnam, India • 🎓 Vignan’s Institute of Information Technology (B.Tech CSE)</i><br><br>
+  <img src="https://komarev.com/ghpvc/?username=Darrkkk09&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>

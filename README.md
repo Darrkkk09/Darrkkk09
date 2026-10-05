@@ -24,10 +24,10 @@ With over a year of hands-on production experience, I specialize in translating 
 
 ## 🤖 AI & Engineering Highlights
 
-*   **AI Agent Architectures:** Building multi-agent platforms (like *Campus Connect*) featuring real-time voice interview simulations using AssemblyAI + Gemini, complete with exponential backoff and graceful fallbacks.
-*   **LLM Integrations:** Developing tools like *GitMCP*, utilizing Model Context Protocol (MCP), ChromaDB vector embeddings, and FastAPI to enable natural-language repository exploration.
-*   **Cloud & DevOps:** Executing zero-downtime server migrations, containerizing environments with Docker, Nginx, and Traefik, and managing VPS infrastructure for high-traffic financial platforms.
-*   **Production Backends:** Engineering scalable RESTful APIs in FastAPI and NestJS with role-based JWT authentication, structured logging, and robust input validation.
+*   **AI Agent Architectures:** Architecting multi-agent platforms featuring real-time, context-aware simulations (voice and text) using modern LLMs, complete with system fault-tolerance mechanisms like exponential backoff and graceful context fallbacks.
+*   **LLM Integrations & Tooling:** Engineering advanced developer productivity tools utilizing the Model Context Protocol (MCP), vector database embeddings (ChromaDB), and scalable APIs to enable natural-language codebase exploration and automation.
+*   **Production Backends:** Designing robust data pipelines and scalable RESTful APIs in FastAPI and Node.js ecosystems, supporting thousands of daily active users with role-based JWT authentication, structured logging, and robust input validation.
+*   **Cloud & DevOps:** Executing zero-downtime server migrations, containerizing full-stack environments with Docker, Nginx, and Traefik, and managing VPS infrastructure for high-throughput services to ensure maximum availability.
 
 ---
 
